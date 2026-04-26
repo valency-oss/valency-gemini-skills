@@ -1,0 +1,6 @@
+{
+  "name": "valency-skills",
+  "version": "0.2.2",
+  "description": "Seven research-corpus skills (profile, landscape, similar, trends, network, reading-list, fresh-collaborators) for the Valency MCP server. Requires the Valency Gemini connector extension.",
+  "contextFileName": "GEMINI.md"
+}

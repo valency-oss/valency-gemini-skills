@@ -1,0 +1,27 @@
+{
+  "name": "valency-skills",
+  "version": "0.2.2",
+  "description": "Seven research-corpus skills for the Valency MCP server. Companion to the Valency Gemini connector extension.",
+  "license": "MIT",
+  "author": "Valency Systems Inc",
+  "homepage": "https://valency.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valencyio/gemini-valency-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valencyio/gemini-valency-skills/issues"
+  },
+  "keywords": [
+    "gemini-cli",
+    "gemini-cli-extension",
+    "research",
+    "papers",
+    "arxiv",
+    "pubmed",
+    "biorxiv",
+    "medrxiv",
+    "literature-review",
+    "semantic-search"
+  ]
+}

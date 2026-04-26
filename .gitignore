@@ -1,0 +1,5 @@
+.DS_Store
+.fastembed_cache/
+.claude/
+node_modules/
+*.log
