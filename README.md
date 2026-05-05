@@ -44,7 +44,7 @@ This extension does **not** register an MCP server. The connector does that.
 ### From a local checkout
 
 ```bash
-gemini extensions link /path/to/gemini-valency-skills
+gemini extensions link /path/to/valency-gemini-skills
 ```
 
 `link` symlinks the dev folder into Gemini CLI's extensions directory so edits
@@ -54,13 +54,13 @@ files.
 To install a frozen copy:
 
 ```bash
-gemini extensions install /path/to/gemini-valency-skills
+gemini extensions install /path/to/valency-gemini-skills
 ```
 
 ### From a Git repo (once published)
 
 ```bash
-gemini extensions install https://github.com/valencyio/gemini-valency-skills
+gemini extensions install https://github.com/valency-oss/valency-gemini-skills
 ```
 
 ## Usage
@@ -140,7 +140,7 @@ them.
 ## Layout
 
 ```
-gemini-valency-skills/
+valency-gemini-skills/
 ├── gemini-extension.json       # Manifest: name, version, contextFileName
 ├── GEMINI.md                   # Extension-level context
 ├── package.json                # npm-style metadata (homepage, keywords, etc.)
@@ -167,4 +167,6 @@ gemini-valency-skills/
 
 ## License
 
-MIT
+This repo is MIT-licensed. See [LICENSE](./LICENSE).
+
+Org-wide contribution, trademark, and security policies for the `valency-oss` organization are maintained at [valency-oss/.github](https://github.com/valency-oss/.github).

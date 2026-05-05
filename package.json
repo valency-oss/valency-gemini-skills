@@ -7,10 +7,10 @@
   "homepage": "https://valency.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/valencyio/gemini-valency-skills.git"
+    "url": "https://github.com/valency-oss/valency-gemini-skills.git"
   },
   "bugs": {
-    "url": "https://github.com/valencyio/gemini-valency-skills/issues"
+    "url": "https://github.com/valency-oss/valency-gemini-skills/issues"
   },
   "keywords": [
     "gemini-cli",
