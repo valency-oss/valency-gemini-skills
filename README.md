@@ -7,7 +7,7 @@ single search — so questions like "what should David Hogg be reading next?" or
 "who should he be talking to that he isn't already?" produce a structured,
 multi-step answer instead of a raw search dump.
 
-This is a port of the [Claude Code Valency plugin](https://github.com/valencyio/valency-plugin)
+This is a port of the [Claude Code Valency plugin](https://github.com/valency-oss/valency-plugin)
 to Gemini CLI's extension format. The skills, tool chains, and output shapes
 are identical; the packaging is Gemini-native.
 
@@ -18,7 +18,7 @@ registers the `valency` MCP server and handles OAuth authentication. Install
 and authenticate the connector first:
 
 ```bash
-gemini extensions install https://github.com/valencyio/valency-gemini-extension
+gemini extensions install https://github.com/valency-oss/valency-gemini-extension
 gemini  # then inside the CLI:
 /mcp auth valency
 ```
