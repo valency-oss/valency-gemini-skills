@@ -1,3 +1,10 @@
+> [!WARNING]
+> **Deprecated.** This repository is archived and no longer updated. Its skills call author tools by names Valency Bond no longer lists. The current seven research skills ship from [valency-oss/valency-connectors](https://github.com/valency-oss/valency-connectors), which also covers Antigravity and other agents:
+>
+> ```bash
+> npx skills@latest add valency-oss/valency-connectors
+> ```
+
 # Valency Skills — Research Corpus Workflows for Gemini CLI
 
 A Gemini CLI extension that exposes seven skills for searching, profiling, and
